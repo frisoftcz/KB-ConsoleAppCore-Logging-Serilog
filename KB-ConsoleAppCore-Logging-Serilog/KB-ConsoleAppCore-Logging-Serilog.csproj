@@ -6,4 +6,9 @@
     <RootNamespace>KB_ConsoleAppCore_Logging_Serilog</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Serilog.Extensions.Logging" Version="2.0.2" />
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="1.1.0" />
+  </ItemGroup>
+
 </Project>

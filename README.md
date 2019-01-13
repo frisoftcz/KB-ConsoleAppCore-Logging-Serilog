@@ -2,3 +2,5 @@
 NUGet Packages:  
 Serilog.Extensions.Logging  
 Serilog.Extensions.Logging.File
+
+log.txt - příklad logovacího souboru
